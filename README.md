@@ -1,8 +1,8 @@
 # Python-population-careers-tracker
-A python programme should also allow users to run these tasks: The user chooses either an occupation or an age group as the subject-matter, and is presented with its career trends over the years.
+An individual python project, where the python programme should allow users to run these tasks: The user chooses either an occupation or an age group as the subject-matter, and is presented with its career trends over the years.
 
 # What's in the repository?
-- Three csv files for python file reading (A, B and C).
+- Three csv files of fictional population datasets for python file reading (A, B and C).
 - Presentation slides to walk through the written code and outputs.
 - .py file with the code for the below programme.
 
