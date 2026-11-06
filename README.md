@@ -1,5 +1,10 @@
 # Python-population-careers-tracker
-A python programme should also allow users to run these tasks: The user chooses either an occupation or an age group as the subject-matter, and is presented with its career trends over the years.
+	A python programme should also allow users to run these tasks: The user chooses either an occupation or an age group as the subject-matter, and is presented with its career trends over the years.
+
+# What's in the repository?
+	- Three csv files for python file reading (A, B and C).
+	- Presentation slides to walk through the written code and outputs.
+	- .py file with the code for the below programme.
 
 # User can run the programme until they key in "q" to terminate
 My overall program starts with a while true loop, allowing users to loop this program continuously until they enter q to terminate.
